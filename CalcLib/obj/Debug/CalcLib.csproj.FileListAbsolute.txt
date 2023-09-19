@@ -1,0 +1,12 @@
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\CalcLib\CalcLib\bin\Debug\CalcLib.dll
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\CalcLib\CalcLib\bin\Debug\CalcLib.pdb
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\CalcLib\CalcLib\obj\Debug\CalcLib.csproj.AssemblyReference.cache
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\CalcLib\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\CalcLib\CalcLib\obj\Debug\CalcLib.dll
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\CalcLib\CalcLib\obj\Debug\CalcLib.pdb
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Libs\CalcLib\CalcLib\bin\Debug\CalcLib.dll
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Libs\CalcLib\CalcLib\bin\Debug\CalcLib.pdb
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Libs\CalcLib\CalcLib\obj\Debug\CalcLib.csproj.AssemblyReference.cache
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Libs\CalcLib\CalcLib\obj\Debug\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Libs\CalcLib\CalcLib\obj\Debug\CalcLib.dll
+C:\Users\KirillMG\OneDrive\Рабочий стол\Проекты\Libs\CalcLib\CalcLib\obj\Debug\CalcLib.pdb
